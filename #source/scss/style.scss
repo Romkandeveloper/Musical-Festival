@@ -104,7 +104,7 @@ body{
         margin-top: 20px;
 
         background: linear-gradient(to left, #aa3a67, #fb806b);
-        background-clip: text;
+        -webkit-background-clip: text;
         color: transparent;
     }
     &__subtitle{
